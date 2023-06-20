@@ -1,5 +1,5 @@
 {
-  "name": "amqplib",
+  "name": "@hiimgiovi/amqplib",
   "homepage": "https://github.com/HiImGiovi/amqplib",
   "main": "./channel_api.js",
   "version": "0.10.3",
