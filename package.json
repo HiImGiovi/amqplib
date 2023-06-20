@@ -3,6 +3,9 @@
   "homepage": "http://amqp-node.github.io/amqplib/",
   "main": "./channel_api.js",
   "version": "0.10.3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@HiImGiovi"
+  },
   "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
   "repository": {
     "type": "git",
