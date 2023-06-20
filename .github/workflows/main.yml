@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           registry-url: https://npm.pkg.github.com/
-          scope: "@HiImGiovi"
+          scope: "@hiimgiovi"
 
       # Install all prerequisites
       - run: npm install
