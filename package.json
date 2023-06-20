@@ -6,7 +6,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@hiimgiovi"
   },
-  "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+  "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client. ",
   "repository": {
     "type": "git",
     "url": "https://github.com/HiImGiovi/amqplib.git"
