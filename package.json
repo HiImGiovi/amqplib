@@ -1,6 +1,6 @@
 {
-  "name": "amqplib",
-  "homepage": "http://amqp-node.github.io/amqplib/",
+  "name": "@HiImGiovi/amqplib",
+  "homepage": "https://github.com/HiImGiovi/amqplib",
   "main": "./channel_api.js",
   "version": "0.10.3",
   "publishConfig": {
